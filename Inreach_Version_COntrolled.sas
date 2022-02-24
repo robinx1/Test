@@ -2,7 +2,11 @@
 
 %include "/gpfsFS2/sasdata/adhoc/tpmg/moc/scl/code/Utilities/sch_general_utility.sas";
 
+<<<<<<< HEAD
 /*This is the newest test 2:58*/
+=======
+/*Another test*/
+>>>>>>> main
 %LET SASFILEPATH = 'Q:\Category\Quality\Code\PROMPT_Inreach_Summary.sas';
  
 %LET LMC = 'SCH','MTN','MIL','CMB','SCL','SKP';
