@@ -3,9 +3,7 @@
 %include "/gpfsFS2/sasdata/adhoc/tpmg/moc/scl/code/Utilities/sch_general_utility.sas";
 
 <<<<<<< HEAD
-/*This is the newest test 2:58*/
-=======
-/*Another test*/
+/*4/6/22 edit working*/
 >>>>>>> main
 %LET SASFILEPATH = 'Q:\Category\Quality\Code\PROMPT_Inreach_Summary.sas';
  
